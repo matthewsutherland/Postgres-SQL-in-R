@@ -1,0 +1,15 @@
+reviewer_id,album_id,rating,season
+2001,1001,6,Summer
+2001,1005,5,Winter
+2002,1004,7,Spring
+2002,1008,8,Spring
+2003,1006,9,Fall
+2003,1002,6,Fall
+2003,1003,8,Summer
+2004,1005,7,Winter
+2005,1007,4,Winter
+2005,1009,10,Spring
+2006,1007,8,Summer
+2006,1009,7,Fall
+2007,1001,7,Spring
+2007,1002,9,Winter
